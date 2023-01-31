@@ -16,6 +16,8 @@ The folder contains an Excel file showing how this calculation is conducted in p
 # License
 CC BY 4.0
 
+Use is authorized for any purpose, even commercially.
+
 # Reference
 Novak, P. K., Smailović, J., Sluban, B., & Mozetič, I. (2015). Sentiment of Emojis. PLOS ONE, 10(12), e0144296. https://doi.org/10.1371/journal.pone.0144296
 
