@@ -9,12 +9,13 @@ It is made available in the hope that it will foster cumulative progress in the 
 
 2. most (but not all) of the lexicons come with a license restricting their use to non commercial research. The license is mentioned in the README files of each folder.
 
-3. if you use any of these lexicons, please cite the reference coming with it (link in the READMes of the folders).
+3. if you use any of these lexicons, please cite the reference coming with it (link in the READMEs of the folders).
 
 # Formatting
 All lexicons follow the same format, to make it easy to parse them in one go. They are tab-separated (.tsv) in the following way:
 
 > field 1: term
+
 > field 2: the valence
 
 - 1st field: the term. It can be a unigram, bigram or ngram, an out-of-dictionary word, or a non word (emoji, abbreviation, emoticon, etc.)
