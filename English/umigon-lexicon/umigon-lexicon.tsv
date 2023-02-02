@@ -1,0 +1,1308 @@
+term	valence	conditions	conditional expressions
+achievement	positive	!isImmediatelyPrecededByANegation	11:12
+accommodating	positive	!isImmediatelyPrecededByANegation	11:12
+admire	positive	!isImmediatelyPrecededByANegation+++isPrecededBySubjectiveTerm	if (A && B) {11} else if (A == 'false') {12} else {10}
+admirable	positive	!isImmediatelyPrecededByANegation	11:12
+admirably	positive	!isImmediatelyPrecededByANegation	11:12
+affordable	positive	!isImmediatelyPrecededByANegation	11:12
+agreeably	positive	!isImmediatelyPrecededByANegation	11:12
+all in one	positive		11
+always a pleasure	positive	!isImmediatelyPrecededByANegation	11:12
+amazing	positive	!isImmediatelyPrecededByANegation	11:12
+among the top	positive	!isImmediatelyPrecededByANegation	11:12
+amusing	positive	!isImmediatelyPrecededByANegation	11:12
+and I m done	positive		11
+angel	positive	!isImmediatelyPrecededByANegation	11:12
+appreciate	positive	!isImmediatelyPrecededByANegation	11:12
+appreciated	positive	!isImmediatelyPrecededByANegation	11:12
+attractive	positive	!isImmediatelyPrecededByANegation	11:12
+awesme	positive	!isImmediatelyPrecededByANegation	11:12
+awesome	positive	!isImmediatelyPrecededByANegation	11:12
+awesomeness	positive	!isImmediatelyPrecededByANegation	11:12
+awsome	positive	!isImmediatelyPrecededByANegation	11:12
+badass	positive		11
+bang up	positive		11
+beautiful	positive	!isImmediatelyPrecededByANegation	11:12
+beautifully	positive	!isImmediatelyPrecededByANegation	11:12
+best	positive	!isImmediatelyPrecededByANegation	11:12
+better	positive	!isImmediatelyPrecededByANegation+++!isFollowedBySpecificTerm///not|start+++!isImmediatelyPrecededBySpecificTerm///would|d|wd	if(A && B && C){11} else {10} 
+bff	positive		11
+big fan	positive	!isImmediatelyPrecededByANegation	11:12
+big up	positive	!isImmediatelyPrecededByANegation	11:12
+big ups	positive	!isImmediatelyPrecededByANegation	11:12
+bitch	positive	!isImmediatelyPrecededByANegation	11:12
+blast	positive	isPrecededBySpecificTerm///it's|its|it is|what a	11:12
+blessed	positive	!isImmediatelyPrecededByANegation	11:12
+blessing	positive	!isImmediatelyPrecededByANegation	11:12
+blown	positive	isPrecededBySpecificTerm ///mind+++isPrecededBySubjectiveTerm+++isFirstTermOfText	if(A || B || C){11} else {10}
+blunder	positive	!isImmediatelyPrecededByANegation	11:12
+bright	positive	!isImmediatelyPrecededByANegation+++!isFollowedBySpecificTerm///light	if(A && B){11} else {10}
+brightening	positive	!isImmediatelyPrecededByANegation	11:12
+brightens	positive		11
+brightens	positive	!isImmediatelyPrecededByANegation	11:12
+brilliance	positive	!isImmediatelyPrecededByANegation	11:12
+brilliant	positive	!isImmediatelyPrecededByANegation	11:12
+brilliantly	positive	!isImmediatelyPrecededByANegation	11:12
+cant wait	positive		11
+can t wait	positive		11
+can t wait for	positive	!isFollowedBySpecificTerm ///to be over	11:12
+cant wait for	positive	!isFollowedBySpecificTerm ///to be over	11:12
+care about	positive	!isImmediatelyPrecededByANegation	11:12
+catchya	positive		11
+celebrate	positive	!isImmediatelyPrecededByANegation	11:12
+celebration	positive	!isImmediatelyPrecededByANegation	11:12
+champion	positive	!isImmediatelyPrecededByANegation	11:12
+champions	positive	!isImmediatelyPrecededByANegation	11:12
+charming	positive	!isImmediatelyPrecededByANegation	11:12
+charmingly	positive	!isImmediatelyFollowedByANegativeOpinion	11:10
+cheeky	positive	!isImmediatelyPrecededByANegation	11:12
+cheer!	positive		11
+cheerful	positive	!isImmediatelyPrecededByANegation	11:12
+cheers	positive	!isImmediatelyPrecededByANegation	11:12
+chill out	positive	!isImmediatelyPrecededByANegation	11:12
+chilled	positive	!isImmediatelyPrecededByANegation	11:12
+classic	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyPrecededBySpecificTerm///classic	if (A && B) {11} else {10}
+classy	positive	!isImmediatelyPrecededByANegation	11:12
+clever	positive	!isImmediatelyPrecededByANegation	11:12
+cohesive	positive	!isImmediatelyPrecededByANegation	11:12
+comfort	positive	!isImmediatelyPrecededByANegation	11:12
+comfy	positive	!isImmediatelyPrecededByANegation	11:12
+comfortable	positive	!isImmediatelyPrecededByANegation	11:12
+congrats	positive		11
+congrats to	positive	!isImmediatelyPrecededByANegation	11:12
+congratulation	positive		11
+congratulations	positive	!isImmediatelyPrecededByANegation	11:12
+cool	positive	!isImmediatelyPrecededByANegation	11:12
+coolest	positive	!isImmediatelyPrecededByANegation	11:12
+coolshite	positive		11
+cost effective	positive	!isImmediatelyPrecededByANegation	11:12
+cracking	positive	!isImmediatelyPrecededByANegation+++!isFollowedBySpecificTerm///knuckle|knuckles|joint|joints	if (A && B) {11} else {10}
+crank	positive	!isImmediatelyPrecededByANegation	11:12
+craving	positive	!isImmediatelyPrecededByANegation	11:12
+cunning	positive	!isImmediatelyPrecededByANegation	11:12
+cute	positive	!isImmediatelyPrecededByANegation	11:12
+cutey	positive	!isImmediatelyPrecededByANegation	11:12
+daringly	positive	!isImmediatelyPrecededByANegation	11:12
+dazzing	positive	!isImmediatelyPrecededByANegation	11:12
+dazzingly	positive	!isImmediatelyPrecededByANegation	11:12
+decent	positive	!isImmediatelyPrecededByANegation	11:12
+defies	positive	!isImmediatelyPrecededByANegation	11:10
+delicious	positive	!isImmediatelyPrecededByANegation	11:12
+delighted	positive	!isImmediatelyPrecededByANegation	11:12
+devoted	positive	!isImmediatelyPrecededByANegation	11:12
+dig	positive	!isImmediatelyPrecededByANegation+++isPrecededBySubjectiveTerm	if (A && B) {11} else {10}
+digging	positive	!isImmediatelyPrecededByANegation+++isPrecededBySubjectiveTerm	if (A && B) {11} else {10}
+donates	positive		11
+dope	positive	isImmediatelyPrecededBySpecificTerm///it's|it is|its	11:10
+dream	positive	!isImmediatelyPrecededByANegation	11:12
+dreamy	positive	!isImmediatelyPrecededByANegation	11:12
+dreamin	positive	!isImmediatelyPrecededByANegation	11:12
+dreams	positive	!isImmediatelyPrecededByANegation	11:12
+ease	positive	!isImmediatelyPrecededByANegation	11:12
+easily	positive	!isImmediatelyPrecededByANegation	11:12
+easier	positive	!isImmediatelyPrecededByANegation	11:12
+easy	positive	!isImmediatelyPrecededByANegation	11:12
+eco friendly	positive	!isImmediatelyPrecededByANegation	11:12
+ecofriendly	positive	!isImmediatelyPrecededByANegation	11:12
+efficient	positive	!isImmediatelyPrecededByANegation	11:12
+elated	positive	!isImmediatelyPrecededByANegation	11:12
+embarassing	positive	!isImmediatelyPrecededByANegation	11:12
+enabled	positive	!isImmediatelyPrecededByANegation	11:12
+engaging	positive	!isImmediatelyPrecededByANegation+++isPrecededByStrongWord+++isImmediatelyPrecededBySpecificTerm///an	if (A && (B || C)) {11} else {10}
+enhance	positive	!isImmediatelyPrecededByANegation	11:12
+enhancement	positive	!isImmediatelyPrecededByANegation	11:12
+enhancements	positive	!isImmediatelyPrecededByANegation	11:12
+enhances	positive	!isImmediatelyPrecededByANegation	11:12
+enhancing	positive	!isImmediatelyPrecededByANegation	11:12
+enjoy	positive	!isImmediatelyPrecededByANegation	11:12
+enjoyable	positive	!isImmediatelyPrecededByANegation	11:12
+enjoyed	positive	!isImmediatelyPrecededByANegation	11:12
+enjoying	positive	!isImmediatelyPrecededByANegation	11:12
+enjoyment	positive	!isImmediatelyPrecededByANegation	11:12
+entertaining	positive	!isImmediatelyPrecededByANegation	11:12
+epic	positive	!isImmediatelyPrecededByANegation	11:12
+evocative	positive	!isImmediatelyPrecededByANegation	11:12
+excellent	positive	!isImmediatelyPrecededByANegation	11:12
+exceptional	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedByAnOpinion	if (A) {12} else if (B) {11} else {10}
+excite	positive	!isImmediatelyPrecededByANegation	11:12
+excited	positive	!isImmediatelyPrecededByANegation	11:12
+exciting	positive	!isImmediatelyPrecededByANegation	11:12
+exquisite	positive	!isImmediatelyPrecededByANegation	11:12
+fab	positive	!isImmediatelyPrecededByANegation	11:12
+fabulous	positive	!isImmediatelyPrecededByANegation	11:12
+fancy	positive	!isImmediatelyPrecededByANegation	11:12
+fantastic	positive	!isImmediatelyPrecededByANegation	11:12
+fascinating	positive	!isImmediatelyPrecededByANegation	11:12
+fav	positive	!isImmediatelyPrecededByANegation	11:12
+fave	positive	!isImmediatelyPrecededByANegation	11:12
+favorite	positive	!isImmediatelyPrecededByANegation	11:12
+favourite	positive	!isImmediatelyPrecededByANegation	11:12
+feel at home	positive	!isImmediatelyPrecededByANegation	11:12
+felt at home	positive	!isImmediatelyPrecededByANegation	11:12
+festive	positive	!isImmediatelyPrecededByANegation	11:12
+finest	positive	!isImmediatelyPrecededByANegation	11:12
+finger licking	positive	!isImmediatelyPrecededByANegation	11:12
+flair	positive	isPrecededByStrongWord	11:10
+fond	positive	!isImmediatelyPrecededByANegation+++isPrecededBySubjectiveTerm	if (A && B) {11} else {10}
+fondly	positive	!isImmediatelyPrecededByANegation+++isPrecededBySubjectiveTerm	11:12
+free	positive	!isImmediatelyPrecededByANegation	11:12
+freebies	positive	!isImmediatelyPrecededByANegation	11:12
+friendly	positive	!isImmediatelyPrecededByANegation+++!isFollowedBySpecificTerm///fire	if (A && B) {11} else {10}
+ftw	positive	!isImmediatelyPrecededByANegation	11:12
+fun	positive	!isImmediatelyPrecededByANegation	11:12
+funniest	positive	!isImmediatelyPrecededByANegation	11:12
+funny	positive	!isImmediatelyPrecededByANegation+++!isFollowedBySpecificTerm///that|how	11:12
+futuristic	positive	!isImmediatelyPrecededByANegation	11:12
+gains	positive	!isImmediatelyPrecededByANegation	11:12
+game changing	positive	!isImmediatelyPrecededByANegation	11:12
+genius	positive	!isImmediatelyPrecededByANegation	11:12
+glad	positive	!isImmediatelyPrecededByANegation	11:12
+glorious	positive	!isImmediatelyPrecededByANegation	11:12
+glory to	positive		11
+god bless	positive		11
+gold	positive	isAllCaps	11
+good	positive	!isImmediatelyPrecededByANegation	11:12
+goodies	positive		11
+gorgeous	positive	!isImmediatelyPrecededByANegation	11:12
+gr8t	positive	!isImmediatelyPrecededByANegation	11:12
+graceful	positive	!isImmediatelyPrecededByANegation	11:12
+gracefully	positive	!isImmediatelyPrecededByANegation	11:12
+grand	positive	!isImmediatelyFollowedByANegativeOpinion+++isImmediatelyPrecededBySpecificTerm///be	if(A && B){11} else {10}
+grateful	positive	!isImmediatelyPrecededByANegation	11:12
+great	positive	!isImmediatelyPrecededByANegation	11:12
+greatest	positive	!isImmediatelyFollowedByANegativeOpinion+++!isImmediatelyFollowedByAPositiveOpinion	if(A && B){11} else {10}
+greatness	positive	!isImmediatelyPrecededByANegation	11:12
+grin	positive	!isImmediatelyPrecededByANegation	11:12
+groovy	positive	!isImmediatelyPrecededByANegation	11:12
+ground breaking	positive	!isImmediatelyPrecededByANegation	11:12
+groundbreaking	positive	!isImmediatelyPrecededByANegation	11:12
+gutsy	positive	!isImmediatelyPrecededByANegation	11:12
+haha	positive		11
+hahaha	positive		11
+handy	positive	!isImmediatelyPrecededByANegation	11:12
+happier	positive	isImmediatelyPrecededBySpecificTerm///couldn t be|couldnt be|never been|any|me|so much|myself	11|99
+happiest	positive	!isImmediatelyPrecededByANegation	11:12
+happy	positive	!isImmediatelyPrecededByANegation	11:12
+has something for everyone	positive	!isImmediatelyPrecededByANegation	11:12
+has you covered	positive	!isImmediatelyPrecededByANegation	11:12
+have you covered	positive	!isImmediatelyPrecededByANegation	11:12
+has to salute	positive	!isImmediatelyPrecededByANegation	11:12
+have to salute	positive	!isImmediatelyPrecededByANegation	11:12
+heavenly	positive	!isImmediatelyPrecededByANegation	11:12
+heheh	positive		11
+helped	positive	!isImmediatelyPrecededByANegation	11:12
+helpful	positive	!isImmediatelyPrecededByANegation	11:12
+helping	positive	!isImmediatelyPrecededByANegation	11:12
+helps	positive	!isImmediatelyPrecededByANegation	11:12
+hero	positive	!isImmediatelyPrecededByANegation	11:12
+high quality	positive	!isImmediatelyPrecededByANegation	11:12
+high quality	positive	!isImmediatelyPrecededByANegation	11:12
+hilarious	positive	!isImmediatelyPrecededByANegation	11:12
+hilarious	positive	!isImmediatelyPrecededByANegation	11:12
+honest	positive	!isImmediatelyPrecededByANegation	11:12
+honorable	positive	!isImmediatelyPrecededByANegation	11:12
+honored	positive	!isImmediatelyPrecededByANegation	11:12
+hope	positive	!isImmediatelyPrecededByANegation	11:12
+hopes	positive	!isImmediatelyPrecededByANegation	11:12
+hot	positive	!isPrecededBySpecificTerm///weather+++!isFollowedBySpecificTerm///weather+++!isImmediatelyPrecededByANegation	if (A && B && C) {11} else {10}
+hottest	positive	!isImmediatelyPrecededByANegation	11:12
+humble	positive	!isImmediatelyPrecededByANegation	11:12
+humbled	positive	!isImmediatelyPrecededByANegation	11:12
+hurray	positive		11
+i like	positive	!isImmediatelyPrecededByANegation	11:12
+ily	positive	!isImmediatelyPrecededByANegation	11:12
+impressed	positive	!isImmediatelyPrecededByANegation	11:12
+impressive	positive	!isImmediatelyPrecededByANegation	11:12
+improve	positive	!isImmediatelyPrecededByANegation	11:12
+improves	positive	!isImmediatelyPrecededByANegation	11:12
+incisive	positive	!isImmediatelyPrecededByANegation	11:12
+incredible	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedByANegativeOpinion	if (A && B) {11} else {10}
+informative	positive	!isImmediatelyPrecededByANegation	11:12
+innovative	positive	!isImmediatelyPrecededByANegation	11:12
+insightful	positive	!isImmediatelyPrecededByANegation	11:12
+insightfully	positive	!isImmediatelyPrecededByANegation	11:12
+inspiration	positive	!isImmediatelyPrecededByANegation	11:12
+inspirations	positive	!isImmediatelyPrecededByANegation	11:12
+inspired	positive	!isImmediatelyPrecededByANegation	11:12
+inspiring	positive	!isImmediatelyPrecededByANegation	11:12
+instantly	positive	!isImmediatelyPrecededByANegation	11:12
+intelligent	positive	!isImmediatelyPrecededByANegation	11:12
+interested	positive	!isImmediatelyPrecededByANegation	11:12
+inventive	positive	!isImmediatelyPrecededByANegation	11:12
+interesting	positive	!isImmediatelyPrecededByANegation	11:12
+irresistible	positive	!isImmediatelyPrecededByANegation	11:12
+jadore	positive		11
+jokin	positive	!isImmediatelyPrecededByANegation	11:12
+joking	positive	!isImmediatelyPrecededByANegation	11:12
+jolly	positive	!isImmediatelyPrecededByANegation	11:12
+joy	positive	!isImmediatelyPrecededByANegation	11:12
+joyous	positive	!isImmediatelyPrecededByANegation	11:12
+kawaii	positive	!isImmediatelyPrecededByANegation	11:12
+kicked their butt	positive	!isImmediatelyPrecededByANegation	11:12
+kicked your butt	positive	!isImmediatelyPrecededByANegation	11:12
+kind	positive	isImmediatelyFollowedBySpecificTerm///of her|of him|of you	11
+knighted	positive	!isImmediatelyPrecededByANegation	11:12
+kudos	positive	!isImmediatelyPrecededByANegation	11:12
+laugh	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedBySpecificTerm///at	if (A && B) {11} else {12}
+laughed	positive	!isImmediatelyPrecededByANegation	11:12
+laughs	positive	!isImmediatelyPrecededByANegation	11:12
+leg up	positive	!isImmediatelyPrecededByANegation	11:12
+lets u 	positive	!isImmediatelyPrecededByANegation	11:12
+let s you	positive	!isImmediatelyPrecededByANegation	11:12
+leveraging	positive	!isImmediatelyPrecededByANegation	11:12
+life saver	positive	!isImmediatelyPrecededByANegation	11:12
+lightning fast	positive	!isImmediatelyPrecededByANegation	11:12
+liked	positive	!isImmediatelyPrecededByANegation	11:12
+liking	positive	!isImmediatelyPrecededByANegation	11:12
+lit	positive	isPrecededBySpecificTerm///it's|its|it is	11:10
+livesaver	positive	!isImmediatelyPrecededByANegation	11:12
+lol	positive	!isImmediatelyPrecededByANegation	11:12
+look forwad to	positive	!isImmediatelyPrecededByANegation	11:12
+looking forward to	positive	!isImmediatelyPrecededByANegation	11:12
+love	positive	!isImmediatelyPrecededByANegation	11:12
+loved	positive	!isImmediatelyPrecededByANegation	11:12
+lovely	positive	!isImmediatelyPrecededByANegation	11:12
+loves	positive	!isImmediatelyPrecededByANegation	11:12
+loving	positive	!isImmediatelyPrecededByANegation	11:12
+loyal	positive	!isImmediatelyPrecededByANegation	11:12
+luckily	positive	!isImmediatelyPrecededByANegation	11:12
+lucky	positive	!isImmediatelyPrecededByANegation	11:12
+lucky you	positive	!isImmediatelyPrecededByANegation	11:12
+lush	positive	!isImmediatelyPrecededByANegation	11:12
+luv	positive	!isImmediatelyPrecededByANegation	11:12
+luv	positive		11
+made my day	positive	!isImmediatelyPrecededByANegation	11:12
+made my night	positive	!isImmediatelyPrecededByANegation	11:12
+magic!	positive	!isImmediatelyPrecededByANegation	11:12
+magnificent	positive	!isImmediatelyPrecededByANegation	11:12
+magnifique	positive	!isImmediatelyPrecededByANegation	11:12
+makes sense	positive	!isImmediatelyPrecededByANegation	11:12
+mandem	positive	!isImmediatelyPrecededByANegation	11:10
+marvelous	positive	!isImmediatelyPrecededByANegation	11:12
+marvellous	positive	!isImmediatelyPrecededByANegation	11:12
+means a lot	positive		11
+meant a lot	positive		11
+merry	positive	!isImmediatelyPrecededByANegation	11:12
+mighty	positive	!isImmediatelyPrecededByANegation	11:12
+mind blowing	positive	!isImmediatelyPrecededByANegation	11:12
+mind blown	positive	!isImmediatelyPrecededByANegation	11:12
+mindblowing	positive	!isImmediatelyPrecededByANegation	11:12
+mindblown	positive	!isImmediatelyPrecededByANegation	11:12
+moving	positive	isPrecededByStrongWord	11:10
+mouth watering	positive	!isImmediatelyPrecededByANegation	11:12
+muahah	positive		11
+muahahah	positive		11
+neat	positive	!isImmediatelyPrecededByANegation	11:12
+nice	positive	!isImmediatelyPrecededByANegation	11:12
+nicest	positive	!isImmediatelyPrecededByANegation	11:12
+noble	positive	!isImmediatelyPrecededByANegation	11:12
+nothing beats	positive		11
+nutritious	positive	!isImmediatelyPrecededByANegation	11:12
+one of the	positive	isImmediatelyFollowedBySpecificTerm///few|rare|only	11:10
+outstanding	positive	!isImmediatelyPrecededByANegation	11:12
+paradise	positive	!isImmediatelyPrecededByANegation	11:12
+passion	positive	!isImmediatelyPrecededByANegation	11:12
+passions	positive	!isImmediatelyPrecededByANegation	11:12
+perfect	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedByANegativeOpinion	if (A && B) {11} else {10}
+perceptive	positive	!isImmediatelyPrecededByANegation	11:12
+perfect Christmas present	positive	!isImmediatelyPrecededByANegation	11:12
+perfect present	positive	!isImmediatelyPrecededByANegation	11:12
+personable	positive	!isImmediatelyPrecededByANegation	11:12
+phenomenal	positive	!isImmediatelyPrecededByANegation	11:12
+pinnacle	positive	!isImmediatelyPrecededByANegation	11:12
+pleasant	positive	!isImmediatelyPrecededByANegation	11:12
+pleasantly	positive	!isImmediatelyPrecededByANegation	11:12
+poignant	positive	!isImmediatelyPrecededByANegation	11:12
+popular	positive	!isImmediatelyPrecededByANegation	11:12
+possibilities	positive		11
+prefect	positive	!isImmediatelyPrecededByANegation	11:12
+prettiest	positive	!isImmediatelyPrecededByANegation	11:12
+pretty	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedByANegativeOpinion	if (A && B) {11} else if (A) {12} else {10}
+prevent	positive	!isImmediatelyPrecededByANegation	11:12
+prevents	positive	!isImmediatelyPrecededByANegation	11:12
+professional	positive	!isImmediatelyPrecededByANegation+++isPrecededByStrongWord if (A && B) {11} else if (A) {12} else {10}	
+profitable	positive	!isImmediatelyPrecededByANegation	11:12
+proud	positive	!isImmediatelyPrecededByANegation	11:12
+pumped	positive	!isImmediatelyPrecededByANegation	11:12
+quality	positive	isPrecededByStrongWord	11:10
+quick witted	positive	!isImmediatelyPrecededByANegation	11:12
+racing with ideas	positive	!isImmediatelyPrecededByANegation	11:12
+rad	positive	!isImmediatelyPrecededByANegation	11:12
+recommend	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedBySpecificTerm///to|doing+++!isFollowedByANegativeOpinion+++!isFollowedBySpecificTerm///before	if (A && B && C && D) {11} else if (A == 'false') {12} else {10}
+refreshingly	positive	!IsImmediatelyFollowedByANegativeOpinion	12:10
+reliable	positive	!isImmediatelyPrecededByANegation	11:12
+relief	positive	!isImmediatelyPrecededByANegation	11:12
+remarkable	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedByANegativeOpinion+++isImmediatelyPrecededBySpecificTerm///a+++isPrecededByStrongWord	if (A && B && (C || D) {11} else {10}
+refreshing change	positive		11:10
+respect	positive	!isImmediatelyPrecededByANegation	11:12
+respectful	positive	!isImmediatelyPrecededByANegation+++isPrecededByStrongWord	if(A && B) {11} else {12}
+revolutionary	positive	!isImmediatelyPrecededByANegation	11:12
+richest	positive	!isImmediatelyPrecededByANegation	11:12
+road tested	positive	!isImmediatelyPrecededByANegation	11:12
+rock	positive	isAllCaps	11
+rock out	positive		11
+rock solid	positive	!isImmediatelyFollowedByANegativeOpinion	11
+rock!	positive	!isImmediatelyPrecededByANegation	11:12
+rockin	positive	!isImmediatelyPrecededByANegation	11:12
+safer	positive	!isImmediatelyPrecededByANegation	11:12
+salute	positive		11
+satisfied	positive	!isImmediatelyPrecededByANegation	11:12
+satisfying	positive	!isImmediatelyPrecededByANegation	11:12
+savoury	positive	!isImmediatelyPrecededByANegation	11:12
+say hello	positive	!isImmediatelyPrecededByANegation	11:12
+score!	positive	!isImmediatelyPrecededByANegation	11:12
+seamless	positive	!isImmediatelyPrecededByANegation	11:12
+sensational	positive	!isImmediatelyPrecededByANegation	11:12
+sexiest	positive	!isImmediatelyPrecededByANegation	11:12
+sheerly	positive	!isImmediatelyPrecededByANegation	11:12
+shout out	positive	!isImmediatelyPrecededByANegation	11:12
+shouts out	positive	!isImmediatelyPrecededByANegation	11:12
+sleek	positive	!isImmediatelyPrecededByANegation	11:12
+slick	positive	!isImmediatelyPrecededByANegation	11:12
+smart	positive	!isImmediatelyPrecededByANegation	11:12
+smile	positive	!isImmediatelyPrecededByANegation	11:12
+smoothly	positive	!isImmediatelyPrecededByANegation	11:12
+so true	positive	!isImmediatelyPrecededByANegation	11:12
+solid	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedByANegativeOpinion	if (A && B) {11} else {10}
+solutions	positive	!isImmediatelyPrecededByANegation	11:12
+sordid	positive	!isImmediatelyPrecededByANegation	11:12
+soulful	positive	!isImmediatelyPrecededByANegation	11:12
+speedy	positive	!isImmediatelyPrecededByANegation	11:12
+spell	positive	isImmediatelyPrecededBySpecificTerm///his|her|their|its	11:10
+splendid	positive	!isImmediatelyPrecededByANegation	11:12
+sporty	positive	!isImmediatelyPrecededByANegation	11:12
+stars!	positive	!isImmediatelyPrecededByANegation	11:12
+steadfast	positive	!isImmediatelyPrecededByANegation	11:12
+still rocking	positive	!isImmediatelyPrecededByANegation	11:12
+strengthening	positive	!isImmediatelyPrecededByANegation	11:12
+stunning	positive	!isImmediatelyPrecededByANegation	11:12
+stunningly	positive	!isImmediatelyPrecededByANegation	11:12
+style	positive	!isImmediatelyPrecededByANegation	11:12
+succesful	positive	!isImmediatelyPrecededByANegation	11:12
+success	positive	!isImmediatelyPrecededByANegation	11:12
+successful	positive	!isImmediatelyPrecededByANegation	11:12
+successfully	positive	!isImmediatelyPrecededByANegation	11:12
+succulent	positive	!isImmediatelyPrecededByANegation	11:12
+suitable	positive	!isImmediatelyPrecededByANegation	11:12
+sunshine	positive	!isImmediatelyPrecededByANegation	11:12
+suped up	positive	!isImmediatelyPrecededByANegation	11:12
+super	positive	!isImmediatelyFollowedByAnOpinion	11:10
+superb	positive	!isImmediatelyPrecededByANegation	11:12
+superbly	positive	!isImmediatelyFollowedByAnOpinion	11:10
+sweet	positive	!isImmediatelyPrecededByANegation	11:12
+swell	positive	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedBySpecificTerm///up+++!isPrecededBySpecificTerm///head|lips|lip|chest|arm|foot|feet|hand|hands|finger|fingers|thumb|thumbs|toe|toes|neck|knee|belly|thigh|leg|legs|chick|chicks|ear|ears|tongue|elbow	if (A && B && C) {11} else {10}
+talented	positive	!isImmediatelyPrecededByANegation	11:12
+tasteful	positive	!isImmediatelyPrecededByANegation	11:12
+tasty	positive	!isImmediatelyPrecededByANegation	11:12
+terrific	positive	!isImmediatelyPrecededByANegation	11:12
+thank	positive	!isImmediatelyPrecededByANegation	11:12
+thank you	positive	!isImmediatelyPrecededByANegation	11:12
+thankfully	positive		11
+thanks	positive	!isImmediatelyPrecededByANegation	11:12
+thanx	positive	!isImmediatelyPrecededByANegation	11:12
+that worked	positive	!isImmediatelyPrecededByANegation	11:12
+the best	positive	!isImmediatelyPrecededByANegation	11
+the easiest way to	positive	!isImmediatelyPrecededByANegation	11:12
+the way 2 go	positive	!isImmediatelyPrecededByANegation	11:12
+the way to go	positive	!isImmediatelyPrecededByANegation	11:12
+thrilled	positive	!isImmediatelyPrecededByANegation	11:12
+thumbs up	positive		11
+thx	positive	!isImmediatelyPrecededByANegation	11:12
+to life	positive	isPrecededBySpecificTerm///brings|bring|brought	11
+toothsome	positive		11
+top of	positive	!isImmediatelyPrecededByANegation	11:12
+tops	positive	!isImmediatelyPrecededByANegation	11:12
+touching	positive	isPrecededByStrongWord	11:10
+tremendous	positive	isPrecededBySpecificTerm///would be+++ isImmediatelyFollowedBySpecificTerm///job|effort|growth|efforts|hit|hits|benefit|benefits|piece|potential|talent	if (A || B) {11} else {0}
+unswerving	positive		11
+unwavering	positive		11
+useful	positive	!isImmediatelyPrecededByANegation	11:12
+user-friendly	positive	!isImmediatelyPrecededByANegation	11:12
+valuable	positive	!isImmediatelyPrecededByANegation	11:12
+values	positive	!isImmediatelyPrecededByANegation	11:12
+very well	positive	!isImmediatelyPrecededByANegation	11:12
+warms my	positive		11
+watchable	positive	isPrecededByStrongWord	11:10
+welcome	positive	!isImmediatelyPrecededByANegation	11:12
+welcoming	positive	!isImmediatelyPrecededByANegation+++isPrecededByStrongWord	if (A && B) {11} else if (A == 'false') {12} else {10}
+welcomes	positive		11
+well	positive	!isImmediatelyPrecededByANegation+++isPrecededByStrongWord	if (A && B) {11} else if (A == 'false') {12} else {10}
+well done	positive	!isImmediatelyPrecededByANegation	11:12
+wholesome	positive	!isImmediatelyPrecededByANegation	11:12
+wonderful	positive	!isImmediatelyPrecededByANegation	11:12
+wondrous	positive	!isImmediatelyPrecededByANegation	11:12
+woohoo	positive		11
+woot	positive		11
+worth a read	positive	!isImmediatelyPrecededByANegation	11:12
+worth it	positive	!isImmediatelyPrecededByANegation	11:12
+wow	positive	!isImmediatelyPrecededByANegation	11:12
+wuhu	positive		11
+xoxo	positive		11
+yay	positive		11
+yay	positive	!isImmediatelyPrecededByANegation	11:12
+yeah!	positive		11
+yes	positive	isAllCaps	11
+yummy	positive	!isImmediatelyPrecededByANegation	11:12
+yum	positive	!isImmediatelyPrecededByANegation	11:12
+*sigh*	negative		12
+@$$	negative		12
+a butt	negative	isPrecededBySpecificTerm///is|are|be	12:10
+a joke	negative		12
+a pity	negative	!isImmediatelyPrecededByANegation	12:10
+abandoned	negative	!isImmediatelyPrecededByANegation	12:10
+abhor	negative		12
+abhore	negative		12
+abject	negative		12
+abominable	negative		12
+abominate	negative		12
+absurd	negative	!isImmediatelyPrecededByANegation	12:10
+abysmal	negative		12
+accidentally	negative		12
+accused of	negative	!isImmediatelyPrecededByANegation	12:10
+ache	negative	!isImmediatelyPrecededByANegation	12:10
+aching	negative	!isImmediatelyPrecededByANegation	12:10
+afraid	negative	!isImmediatelyPrecededByANegation	12:10
+again	negative	isPrecededBySpecificTerm///never	12:10
+again ...	negative		12
+again...	negative		12
+agh	negative		12
+aholes	negative		12
+alarming	negative	!isImmediatelyPrecededByANegation	12:10
+aloof	negative	!isImmediatelyPrecededByANegation	12:10
+amateurish	negative	!isImmediatelyPrecededByANegation	12:10
+angry	negative	!isImmediatelyPrecededByANegation	12:10
+angst	negative	!isImmediatelyPrecededByANegation	12:10
+annoyed	negative	!isImmediatelyPrecededByANegation	12:10
+annoying	negative	!isImmediatelyPrecededByANegation	12:10
+annoyingly	negative		12
+annoys	negative	!isImmediatelyPrecededByANegation	12:10
+apathetic	negative		12
+apologist	negative	!isImmediatelyPrecededByANegation	12:10
+apologists	negative	!isImmediatelyPrecededByANegation	12:10
+appalled	negative		12
+arbitrary	negative	!isFollowedBySpecificTerm///number	12:10
+are down	negative		12
+arg	negative		12
+argh	negative		12
+arrogance	negative	!isImmediatelyPrecededByANegation	12:10
+arrogant	negative	!isImmediatelyPrecededByANegation	12:10
+ashamed	negative	!isImmediatelyPrecededByANegation	12:10
+ass	negative	!isPrecededBySpecificTerm///bad|cool+++!isImmediatelyPrecededByANegation	if(A && B) {12} else {11}
+asses	negative		12
+asshole	negative	!isImmediatelyPrecededByANegation	12:10
+assholes	negative	!isImmediatelyPrecededByANegation	12:10
+at odd	negative	!isImmediatelyPrecededByANegation	12:10
+at odds	negative	!isImmediatelyPrecededByANegation	12:10
+at risk	negative	!isImmediatelyPrecededByANegation	12:10
+avoid	negative	isAllCaps	12
+atrocious	negative		12
+awful	negative	!isImmediatelyFollowedBySpecificTerm///lot	12:10
+awkward	negative	!isImmediatelyPrecededByANegation	12:10
+back to work	negative		12
+bad	negative	!isImmediatelyPrecededByANegation+++!isPrecededBySpecificTerm///want|wanna|would+++!isFollowedBySpecificTerm///ass|asses|asss	if (A && B && C) {12} else {11}
+badly	negative	!isImmediatelyPrecededByANegation	12:10
+baffles	negative		12
+baffled	negative		12
+baity	negative		12
+barbaric	negative		12
+bastard	negative	!isImmediatelyPrecededByANegation	12:10
+bastards	negative	!isImmediatelyPrecededByANegation	12:10
+battling	negative	!isFollowedBySpecificTerm///performance|bros|brothers|for|draw	12:10
+be serious	negative	!isImmediatelyPrecededByANegation	12:10
+beat it	negative		12
+begging	negative	!isImmediatelyPrecededByANegation	12:10
+bemused	negative		12
+beware	negative		12
+bigotry	negative	!isImmediatelyPrecededByANegation	12:10
+birdbrain	negative	!isImmediatelyPrecededByANegation	12:10
+bitch	negative	isAllCaps	12
+bitchass	negative	!isImmediatelyPrecededByANegation	12:10
+bitter	negative	!isImmediatelyPrecededByANegation	12:10
+bitterly	negative	!isImmediatelyPrecededByANegation	12:10
+blah	negative		12
+blame	negative	!isImmediatelyPrecededByANegation	12:10
+blaming	negative	!isImmediatelyPrecededByANegation	12:10
+blistered	negative	!isImmediatelyPrecededByANegation	12:10
+bloatware	negative		12
+blow	negative	!isFollowedBySpecificTerm///our minds|their minds	12:11
+blows	negative	!isFollowedBySpecificTerm///my mind	12:11
+bogged	negative	!isImmediatelyPrecededByANegation	12:10
+bogus	negative	!isImmediatelyPrecededByANegation	12:10
+boo	negative		12
+bored	negative	!isImmediatelyPrecededByANegation	12:10
+borez	negative		12
+bonehead	negative	!isImmediatelyPrecededByANegation	12:10
+boring	negative	!isImmediatelyPrecededByANegation	12:10
+boyed	negative	!isImmediatelyPrecededByANegation	12:10
+bozo	negative		12
+brag	negative		12
+broke	negative	!isImmediatelyPrecededByANegation	12:10
+broken	negative	!isImmediatelyPrecededByANegation	12:10
+bruised	negative	!isImmediatelyPrecededByANegation	12:10
+bs	negative	!isImmediatelyPrecededByANegation	12:10
+bugger	negative		12
+bullshit	negative	!isImmediatelyPrecededByANegation	12:10
+bummed	negative	!isImmediatelyPrecededByANegation	12:10
+bummer	negative		12
+bunch of	negative	!isFollowedBySpecificTerm///flowers	12:10
+burned myself	negative	!isImmediatelyPrecededByANegation	12:10
+butchered	negative	!isImmediatelyPrecededByANegation	12:10
+butthurt	negative		12
+cancelled	negative	!isImmediatelyPrecededByANegation	12:10
+cant bear	negative		12
+can t bear	negative		12
+cease	negative	!isImmediatelyPrecededByANegation	12:10
+cheat	negative	!isImmediatelyPrecededByANegation	12:10
+cheated	negative	!isImmediatelyPrecededByANegation	12:10
+cheating	negative	!isImmediatelyPrecededByANegation	12:10
+cheerless	negative		12
+classless	negative	!isImmediatelyPrecededByANegation	12:10
+cliche	negative	!isImmediatelyPrecededByANegation+++isPrecededByStrongWord	if (A && B) {12} else {10}
+clown	negative	!isImmediatelyPrecededByANegation	12:10
+clumsy	negative	!isImmediatelyPrecededByANegation	12:10
+clunky	negative	!isImmediatelyPrecededByANegation	12:10
+clusterfuck	negative		12
+clusterfucks	negative		12
+complaining	negative	!isImmediatelyPrecededByANegation	12:10
+complaint	negative	!isImmediatelyPrecededByANegation	12:10
+complaints	negative	!isImmediatelyPrecededByANegation	12:10
+complicit	negative	!isImmediatelyPrecededByANegation	12:10
+concerning	negative	isPrecededByStrongWord	12:10
+concussion	negative	!isImmediatelyPrecededByANegation	12:10
+conflicting	negative	!isImmediatelyPrecededByANegation	12:10
+confused	negative	!isImmediatelyPrecededByANegation	12:10
+coughing	negative	!isImmediatelyPrecededByANegation	12:10
+coward	negative	!isImmediatelyPrecededByANegation	12:10
+cowardly	negative	!isImmediatelyPrecededByANegation	12:10
+crap	negative	!isImmediatelyPrecededByANegation	12:10
+crappy	negative	!isImmediatelyPrecededByANegation	12:10
+crapware	negative	!isImmediatelyPrecededByANegation	12:10
+creep	negative	!isPrecededBySpecificTerm///im a|i am a	12:10
+creepy	negative	!isImmediatelyPrecededByANegation	12:10
+cretin	negative	!isImmediatelyPrecededByANegation	12:10
+crime	negative	isPrecededBySpecificTerm///it's a|its a|it is a	12:10
+cross	negative	isPrecededBySpecificTerm///im|i am+++isFollowedBySpecificTerm///about|that	if (A && B) {12} else {10}
+cruel	negative	!isImmediatelyPrecededByANegation	12:10
+crushed	negative	!isImmediatelyPrecededByANegation	12:10
+cry	negative	!isImmediatelyPrecededByANegation	12:10
+crying	negative	!isImmediatelyPrecededByANegation	12:10
+damaged	negative	!isImmediatelyPrecededByANegation	12:10
+damm	negative		12
+dammit	negative		12
+damn	negative	!isImmediatelyFollowedByAPositiveOpinion	12:10
+damn it	negative		12
+damnit	negative		12
+dang	negative		12
+dangerous	negative	!isImmediatelyPrecededByANegation	12:10
+darn	negative		12
+dbagÂ 	negative		12
+d-bagÂ 	negative		12
+dbags	negative		12
+dead	negative	!isImmediatelyPrecededByANegation	12:10
+deadly	negative	!isImmediatelyPrecededByANegation	12:10
+deceptive	negative	!isImmediatelyPrecededByANegation	12:10
+defective	negative	!isImmediatelyPrecededByANegation	12:10
+defects	negative		12
+delirious	negative		12
+delusion	negative		12
+delusory	negative		12
+deny	negative		12
+deplorable	negative		12
+depraved	negative		12
+depressed	negative	!isImmediatelyPrecededByANegation	12:10
+depresses	negative	!isImmediatelyPrecededByANegation	12:10
+depressing	negative	!isImmediatelyPrecededByANegation	12:10
+depressingly	negative		12
+desolate	negative	!isImmediatelyPrecededByANegation	12:10
+desperate	negative	!isImmediatelyPrecededByANegation	12:10
+desperation	negative		12
+despicable	negative	!isFollowedBySpecificTerm///me	12:10
+destroyedÂ 	negative	!isImmediatelyPrecededByANegation	12:10
+detest	negative	!isImmediatelyPrecededByANegation	12:10
+detrimental	negative	isPrecededByStrongWord	12:10
+devastated	negative	!isImmediatelyPrecededByANegation	12:10
+dick	negative		12
+dicks	negative		12
+died	negative	!isImmediatelyPrecededByANegation	12:10
+dies	negative	!isImmediatelyPrecededByANegation	12:10
+dimwit	negative		12
+dire	negative		12
+disappointment	negative	!isImmediatelyPrecededByANegation+++isPrecededByStrongWord	if (A && B) {12} else {10}
+disappointed	negative	!isImmediatelyPrecededByANegation	12:10
+disappointing	negative	!isImmediatelyPrecededByANegation	12:10
+disaster	negative	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedBySpecificTerm///recovery	if (A && B) {12} else {10}
+discouraged	negative	!isImmediatelyPrecededByANegation	12:10
+disenchanted	negative	!isImmediatelyPrecededByANegation	12:10
+disgraceful	negative		12
+disgusted	negative	!isImmediatelyPrecededByANegation	12:10
+disgusting	negative	!isImmediatelyPrecededByANegation	12:10
+disillusioned	negative	!isImmediatelyPrecededByANegation	12:10
+dislike	negative	!isImmediatelyPrecededByANegation	12:10
+dismayed	negative		12
+displeased	negative	!isImmediatelyPrecededByANegation	12:10
+disrespect	negative	!isImmediatelyPrecededByANegation	12:10
+dissapointed	negative	!isImmediatelyPrecededByANegation	12:10
+dissatisfied	negative	!isImmediatelyPrecededByANegation	12:10
+distasteful	negative		12
+distressful	negative		12
+distressing	negative		12
+divisive	negative	!isImmediatelyPrecededByANegation	12:10
+divorcing	negative	!isImmediatelyPrecededByANegation	12:10
+dizzy	negative	!isImmediatelyPrecededByANegation	12:10
+do not	negative	isAllCaps	12
+do they need	negative	!isImmediatelyPrecededByANegation	12:10
+dodgy	negative	!isImmediatelyPrecededByANegation	12:10
+doesn t care	negative		12
+doesnt care	negative		12
+does not get it	negative		12
+does not mean	negative		12
+doesnt get it	negative		12
+doesn t get it	negative		12
+doesn t mean	negative		12
+doesnt quite	negative		12
+doesnt mean	negative		12
+doesnt reply	negative		12
+doesn t reply	negative		12
+dont	negative	isAllCaps	12
+DON T	negative	isAllCaps	12
+dont care	negative		12
+don t care	negative		12
+don t get it	negative		12
+dont get it	negative		12
+dont know what	negative		12
+don t know what	negative		12
+dont like	negative		12
+don t like	negative		12
+dont reply	negative		12
+don t reply	negative		12
+doomed	negative		12
+doubt it	negative	!isImmediatelyPrecededByANegation	12:10
+douche	negative	!isImmediatelyPrecededByANegation	12:10
+douchebag	negative	!isImmediatelyPrecededByANegation	12:10
+douchebaggery	negative		12
+douchebags	negative	!isImmediatelyPrecededByANegation	12:10
+doucheclown	negative		12
+doucheclowns	negative		12
+downbeat	negative		12
+downhearted	negative		12
+drained	negative	!isInATextWithOneOfTheseSpecificTerms///water|pipe|flood	12:10
+dread	negative		12
+dreaded	negative		12
+dreading	negative	!isImmediatelyPrecededByANegation	12:10
+dreadful	negative		12
+dreary	negative		12
+dull	negative	!isImmediatelyPrecededByANegation	12:10
+dumb	negative	!isImmediatelyPrecededByANegation	12:10
+dumbed down	negative	!isImmediatelyPrecededByANegation	12:10
+dumbass	negative		12
+dysfunctional	negative		12
+earache	negative	!isImmediatelyPrecededByANegation	12:10
+eek	negative		12
+embarrassing	negative	!isImmediatelyPrecededByANegation	12:10
+enraged	negative	!isImmediatelyPrecededByANegation	12:10
+error	negative	isPrecededByStrongWord	12:10
+errors	negative	isPrecededByStrongWord	12:10
+ever	negative	isPrecededBySpecificTerm///never	12:10
+exasperating	negative		12
+excrement	negative		12
+execrate	negative		12
+expensive	negative	!isImmediatelyPrecededByANegation	12:10
+experienced issues	negative	!isImmediatelyPrecededByANegation	12:10
+experiencing issues	negative	!isImmediatelyPrecededByANegation	12:10
+experiencing some issues	negative	!isImmediatelyPrecededByANegation	12:10
+f**king	negative	isImmediatelyFollowedByAPositiveOpinion	12:10
+f*ck	negative		12
+fu*k you	negative		12
+f*king	negative	isImmediatelyFollowedByAPositiveOpinion	11:12
+fail	negative		12
+failed	negative	!isImmediatelyPrecededByANegation	12:10
+fails	negative	!isImmediatelyPrecededByANegation	12:10
+failure	negative		12
+fake	negative		12
+fainthearted	negative	!isImmediatelyPrecededByANegation	12:10
+famished	negative		12
+faulty	negative	!isImmediatelyPrecededByANegation	12:10
+fed up	negative		12
+feeble	negative		12
+feeling down	negative	!isImmediatelyPrecededByANegation	12:10
+fell	negative	!isFollowedBySpecificTerm///in love	12:10
+fidgety	negative		12
+fired	negative	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedBySpecificTerm///up	if (A && B) {12} else {10}
+flawed	negative		12
+fml	negative		12
+fool	negative	!isImmediatelyPrecededByANegation+++!isImmediatelyPrecededBySpecificTerm///to	if (A && B) {12} else {10}
+fooled	negative	!isImmediatelyPrecededByANegation	12:10
+fools	negative	!isImmediatelyPrecededByANegation	12:10
+forced	negative	!isImmediatelyPrecededByANegation+++!isImmediatelyPrecededBySpecificTerm///in the	if (A && B) {12} else {10}
+forgettable	negative		12
+forgot me	negative	!isImmediatelyPrecededByANegation	12:10
+forgot us	negative	!isImmediatelyPrecededByANegation	12:10
+fraud	negative	!isImmediatelyPrecededByANegation	12:10
+frauds	negative	!isImmediatelyPrecededByANegation	12:10
+freak	negative	!isImmediatelyPrecededByANegation	12:10
+frightful	negative		12
+frightfully	negative		12
+frowny	negative		12
+frustrated	negative	!isImmediatelyPrecededByANegation	12:10
+frustrated	negative	!isImmediatelyPrecededByANegation	12:10
+frustrating	negative	!isImmediatelyPrecededByANegation	12:10
+fuck	negative	!isFollowedByAPositiveOpinion	12:10
+fucking	negative	!isFollowedByAPositiveOpinion	12:10
+fucked	negative	!isImmediatelyPrecededByANegation	12:10
+fucker	negative		12
+fuckers	negative		12
+fucks	negative		12
+f*ck	negative	!isFollowedByAPositiveOpinion	12:10
+f*cking	negative	!isFollowedByAPositiveOpinion	12:10
+f*cked	negative	!isImmediatelyPrecededByANegation	12:10
+f*cker	negative		12
+f*ckers	negative		12
+f*cks	negative		12
+fuming	negative		12
+funeral	negative	!isImmediatelyPrecededByANegation	12:10
+funniest	negative		12
+furious	negative		12
+gah	negative		12
+galling	negative		12
+garbage	negative		12
+garbages	negative		12
+gerrymandering	negative	!isImmediatelyPrecededByANegation	12:10
+get out	negative	isImmediatelyPrecededByANegation	12:10
+glitch	negative	!isImmediatelyPrecededByANegation	12:10
+gloomy	negative		12
+glum	negative		12
+go back to your	negative		12
+go to work	negative		12
+god sake	negative		12
+goddam	negative	+++!isFollowedByAPositiveOpinion	12:10
+goddamn	negative	+++!isFollowedByAPositiveOpinion	12:10
+goddamned	negative		12
+going crazy	negative		12
+good	negative	!isFollowedByANegativeOpinion	12:22
+greed	negative	!isImmediatelyPrecededByANegation	12:10
+greedy	negative	!isImmediatelyPrecededByANegation	12:10
+grossly	negative		12
+grotesque	negative		12
+grr	negative		12
+grim	negative		12
+gruesome	negative		12
+grumpy	negative	!isImmediatelyPrecededByANegation	12:10
+gtfo	negative		12
+h8	negative		12
+hacked	negative	!isImmediatelyPrecededByANegation	12:10
+had to	negative		12
+half-assed	negative		12
+halfwit	negative		12
+half wit	negative		12
+hapless	negative		12
+harassed	negative		12
+hard	negative	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedBySpecificTerm///work|disk|disks|drive|drives|worked|working|skill|skills|part|time|on+++!isImmediatelyPrecededBySpecificTerm///push|work|works|working|worked|work so|working so|worked so|works so|play|party	if (A && B && C) {12} else if (A && B && C == 'false'){11} else {10}
+hard time	negative	isImmediatelyPrecededBySpecificTerm///gives me a|give me a+++isPrecededByStrongWord	if (A || B) {12} else {10}
+hardly	negative	isImmediatelyPrecededBySpecificTerm///it is| it s|it+++isImmediatelyFollowedBySpecificTerm///make|makes	if (A || B) {12} else {10}
+harried	negative		12
+harsh	negative		12
+hate	negative	!isImmediatelyPrecededByANegation+++!isImmediatelyFollowedBySpecificTerm///to	if(A && B){12} else if (A == 'false' && B){99} else {11}
+hated	negative	!isImmediatelyPrecededByANegation	12:10
+hateful	negative	!isImmediatelyPrecededByANegation	12:10
+hater	negative		12
+haters	negative		12
+hating	negative	!isImmediatelyPrecededByANegation	12:10
+have to wait	negative		12
+have to work	negative		12
+headache	negative	!isImmediatelyPrecededByANegation	12:10
+headaches	negative	!isImmediatelyPrecededByANegation	12:10
+headachy	negative		12
+heart	negative	isPrecededBySpecificTerm///break|breaking|broke|broken+++isFollowedBySpecificTerm///break|breaking|wrenched|wrenching	if(A || B) {12} else {10}
+heartbroken	negative	!isImmediatelyPrecededByANegation	12:10
+heart broken	negative	!isImmediatelyPrecededByANegation	12:10
+heavy	negative	isPrecededByStrongWord	12:10
+heinous	negative		12
+hell	negative	!isImmediatelyPrecededByANegation	12:10
+helpless	negative	!isImmediatelyPrecededByANegation	12:10
+hideous	negative	!isImmediatelyPrecededByANegation	12:10
+hitch	negative	!isPrecededBySpecificTerm///without a	12:10
+hitler	negative		12
+hmm	negative		12
+hoax	negative	!isImmediatelyPrecededByANegation	12:10
+hoaxes	negative	!isImmediatelyPrecededByANegation	12:10
+homework	negative	!isImmediatelyPrecededByANegation	12:10
+hoped	negative		12
+hopeless	negative	!isImmediatelyPrecededByANegation	12:10
+horrendous	negative		12
+horrible	negative	!isImmediatelyPrecededByANegation	12:10
+horrific	negative		12
+horrid	negative		12
+horrified	negative	!isImmediatelyPrecededByANegation	12:10
+horrifying	negative	!isImmediatelyPrecededByANegation	12:10
+horseshit	negative		12
+how can	negative	!isImmediatelyFollowedBySpecificTerm///i|we	12
+humiliated	negative		12
+humiliating	negative		12
+hurt	negative	!isImmediatelyPrecededByANegation	12:10
+hurt	negative	!isImmediatelyPrecededByANegation	12:10
+hurts	negative	!isImmediatelyPrecededByANegation	12:10
+i cant	negative		12
+i can t	negative		12
+i didnt get	negative		12
+i didn t get	negative		12
+i dont wanna	negative		12
+i don t wanna	negative		12
+i have no	negative		12
+i have to	negative		12
+i miss my	negative		12
+i need to	negative		12
+i wish i	negative		12
+idiot	negative	!isImmediatelyPrecededByANegation	12:10
+idiots	negative	!isImmediatelyPrecededByANegation	12:10
+if only	negative		12
+ignored	negative		12
+immature	negative		12
+in hell	negative		12
+in the hell	negative		12
+inappropriate	negative	!isImmediatelyPrecededByANegation	12:10
+incompatible	negative	!isImmediatelyPrecededByANegation	12:10
+incompetent	negative	!isImmediatelyPrecededByANegation	12:10
+incompetents	negative		12
+inept	negative	!isImmediatelyPrecededByANegation	12:10
+inexcusable	negative		12
+infuriated	negative		12
+infuriating	negative		12
+injuries	negative	!isImmediatelyPrecededByANegation	12:10
+injury	negative	!isImmediatelyPrecededByANegation	12:10
+inhuman	negative		12
+inhumane	negative		12
+insensitive	negative	!isImmediatelyPrecededByANegation	12:10
+insidious	negative		12
+insubstantial	negative		12:10
+interminable	negative		12
+interrupted	negative	!isImmediatelyPrecededByANegation	12:10
+intolerable	negative		12
+ironically	negative		12
+irritated	negative	!isImmediatelyPrecededByANegation	12:10
+irritating	negative	!isImmediatelyPrecededByANegation	12:10
+is down	negative		12
+is faulty	negative		12
+itchy	negative	!isImmediatelyPrecededByANegation	12:10
+jackass	negative		12
+jacked up	negative		12
+jammed	negative	!isImmediatelyPrecededByANegation	12:10
+janky	negative		12
+jejune	negative		12
+jerk	negative		12
+joke	negative	isPrecededByStrongWord	12:10
+junk	negative		12
+kicked my butt	negative		12
+kidding, no?	negative		12
+kidding, right?	negative		12
+kill	negative		12
+klutz	negative		12
+lack of	negative	!isImmediatelyPrecededByANegation	12:10
+lacks of any	negative	!isImmediatelyPrecededByANegation	12:10
+lacks any	negative	!isImmediatelyPrecededByANegation	12:10
+lame	negative		12
+laughable	negative		12
+layoff	negative	!isImmediatelyPrecededByANegation	12:10
+layoffs	negative	!isImmediatelyPrecededByANegation	12:10
+lazy	negative	!isImmediatelyFollowedByATimeIndication	12:10
+left wing	negative		12
+liar	negative		12
+like	negative	isImmediatelyPrecededByANegation+++!isPrecededBySpecificTerm///is|are	if(A && B){12} else if (A == 'false' && B){11} else {10}
+loathe	negative		12
+loathsome	negative		12
+lobbies	negative		12
+lobby	negative		12
+lobbyist	negative		12
+lonely	negative	!isImmediatelyPrecededByANegation	12:10
+loose	negative	!isImmediatelyPrecededByANegation+++!isPrecededBySpecificTerm///on the	if(A && B){12} else if (A == 'false' && B){99} else {11}
+looser	negative		12
+loosers	negative		12
+loser	negative		12
+losers	negative		12
+loses	negative	!isImmediatelyPrecededByANegation	12:10
+loss	negative		12
+lousy	negative		12
+low	negative	isPrecededByStrongWord	12
+mad	negative	!isImmediatelyPrecededByANegation+++!isFollowedBySpecificTerm///max	if(A && B){12} else{10}
+maddening	negative	+++!isFollowedByAPositiveOpinion	12:10
+made up	negative	IsPrecededByStrongWord	12:10
+make sense	negative	isImmediatelyPrecededByANegation	12:11
+mediocre	negative	isImmediatelyPrecededByANegation	12:11
+mess	negative	!isImmediatelyPrecededByANegation+++!isPrecededBySpecificTerm///go to the|went to the|watched the|watch the|attend the|attended the	if (A && B) {12} else {10}
+mess up	negative	!isImmediatelyPrecededByANegation	12:10
+messed	negative	!isImmediatelyPrecededByANegation	12:10
+messed up	negative	!isImmediatelyPrecededByANegation	12:10
+messing up	negative		12
+messing with	negative	!isImmediatelyPrecededByANegation	12:10
+middle finger	negative		12
+midterms	negative		12
+migraine	negative	!isImmediatelyPrecededByANegation	12:10
+miserable	negative	!isImmediatelyPrecededByANegation	12:10
+misogynistic	negative		12
+misogyny	negative		12
+miss	negative	!isImmediatelyPrecededByANegation	12:10
+missed	negative	!isImmediatelyPrecededByANegation	12:10
+misses	negative		12
+missin	negative	!isImmediatelyPrecededByANegation	12:10
+missing	negative	!isImmediatelyPrecededByANegation	12:10
+missn	negative	!isImmediatelyPrecededByANegation	12:10
+mmh	negative		12
+mmmh	negative		12
+mockery	negative		12
+monotonous	negative	!isImmediatelyFollowedBySpecificTerm///line|trend|increase|function|decrease|slope	12:10
+monstruous	negative	!isFollowedByAPositiveOpinion	12:10
+moron	negative		12
+mortified	negative		12
+mortifying	negative		12
+motherfucker	negative		12
+motherfuckers	negative		12
+motherfucking	negative		12
+moving tribute	negative		11
+muthafucka	negative		12
+muthafuckas	negative		12
+my butt kicked	negative		12
+nasty	negative	!isImmediatelyPrecededByANegation	12:10
+nausea	negative		12
+nauseated	negative		12
+nauseating	negative		12
+need hugs	negative	!isImmediatelyPrecededByANegation	12:10
+need money	negative	!isImmediatelyPrecededByANegation	12:10
+need sleep	negative	!isImmediatelyPrecededByANegation	12:10
+need some money	negative		12
+need to sleep	negative	!isImmediatelyPrecededByANegation	12:10
+needs hug	negative	!isImmediatelyPrecededByANegation	12:10
+needs hugs	negative	!isImmediatelyPrecededByANegation	12:10
+neglect	negative	!isImmediatelyPrecededByANegation	12:10
+neglected	negative	!isImmediatelyPrecededByANegation	12:10
+never	negative	!isFollowedBySpecificTerm///get tired+++isAllCaps	if(A && B){12} else {10}
+never again	negative		12
+never buy	negative		12
+nigga	negative	!isFollowedByAPositiveOpinion+++!isPrecededByPositive	if (A && B) {12} else {10}
+niggas	negative	!isFollowedByAPositiveOpinion+++!isPrecededByPositive	if (A && B) {12} else{10}
+nightmare	negative		12
+nightmares	negative		12
+no	negative	isAllCaps	12
+no apparent reason	negative		12
+no cash	negative	!isImmediatelyPrecededByANegation	12:10
+no money	negative	!isImmediatelyPrecededByANegation	12:10
+no no	negative		12
+no result	negative		12
+no results	negative		12
+no, no	negative		12
+none	negative	isAllCaps	12
+nonsense	negative		12
+nonsensical	negative		12
+not a joke	negative		12
+not be working	negative		12
+not exactly	negative		12
+not good	negative		12
+not happen	negative		12
+not working	negative		12
+nothing to say	negative		12
+not-so-big	negative		12
+not-so-hot	negative		12
+now only if	negative		12
+nuts	negative	isPrecededBySpecificTerm///drive|droven|drove|driven|drived|is|are|driving me+++isPrecededByStrongWord	if (A || B) {12} else {10}
+obsolete	negative		12
+obtuse	negative		12
+offended	negative	!isImmediatelyPrecededByANegation	12:10
+offending	negative	!isImmediatelyPrecededByANegation	12:10
+on what planet	negative		12
+ooops	negative		12
+oops	negative		12
+ouch	negative		12
+out	negative	isPrecededBySpecificTerm///stressed|stresses	12:10
+outraged	negative	!isImmediatelyPrecededByANegation	12:10
+overrated	negative	!isImmediatelyPrecededByANegation	12:10
+overwrought	negative	!isImmediatelyPrecededByANegation	12:10
+owe	negative	!isImmediatelyFollowedBySpecificTerm///you	12:10
+pain	negative		12
+painful	negative	!isImmediatelyPrecededByANegation	12:10
+paining	negative	!isImmediatelyPrecededByANegation	12:10
+paltry	negative		12
+panic	negative		12
+paper-thin	negative		12
+passed the buck	negative	!isImmediatelyPrecededByANegation	12:10
+passing the buck	negative	!isImmediatelyPrecededByANegation	12:10
+pathetic	negative		12
+peabrain	negative		12
+pernicious	negative		12
+perturbing	negative		12
+pervert	negative		12
+perverts	negative		12
+pesky	negative		12
+pestiferous	negative		12
+pigshit	negative		12
+pinhead	negative		12
+pissed	negative	!isImmediatelyPrecededByANegation	12:10
+pisses	negative		12
+pitiful	negative		12
+pointless	negative	!isImmediatelyPrecededByANegation	12:10
+pooped	negative		12
+poor service	negative		12
+pornographic	negative		12
+prat	negative		12
+pray 4	negative		12
+pray for	negative		12
+problem	negative	!isPrecededBySpecificTerm///solve|solving|solve my|solving my|tackling+++!isImmediatelyFollowedBySpecificTerm///solving|solver+++!isImmediatelyPrecededByANegation+++isPrecededByStrongWord	if(A && B && C && D) {12} else {10}
+problems	negative	!isPrecededBySpecificTerm///solve|solving|solve my|solving my|tackling+++!isImmediatelyFollowedBySpecificTerm///solving|solver+++!isImmediatelyPrecededByANegation	if(A && B && C){12} else{10}
+probs	negative		12
+profanity	negative		12
+prohibitive	negative		12
+puerile	negative		12
+puke	negative		12
+rabid	negative		12
+rabidly	negative		12
+racist	negative		12
+racists	negative		12
+rambling	negative		12
+ran out	negative		12
+rant	negative		12
+really donâ€™t	negative		12
+reckless	negative	isPrecededByStrongWord	12
+red faced	negative		12
+refund	negative		12
+refuse	negative	!isImmediatelyPrecededByANegation	12:10
+regret	negative	!isImmediatelyPrecededByANegation	12:10
+reimburse	negative		12
+reppellent	negative		
+repulsive	negative		12
+retarded	negative		12
+retrograde	negative		12
+revolting	negative		12
+rid of	negative		12
+ridiculous	negative		12
+right wing	negative		12
+rip	negative		12
+risky	negative		12
+rubbish	negative		12
+rude	negative		12
+rudeness	negative		12
+rudest	negative		12
+ruined	negative		12
+ruining	negative		12
+running late	negative		12
+running out	negative		12
+ruptured	negative	!isImmediatelyPrecededByANegation	12:10
+sacrificed	negative		12
+sad	negative	!isImmediatelyPrecededByANegation	12:10
+sadden	negative	!isImmediatelyPrecededByANegation	12:10
+saddest	negative		12
+sadfaced	negative		12
+sadistic	negative		12
+sadly	negative		12
+savagery	negative		12
+savageries	negative		12
+scam	negative		12
+scandal	negative		12
+scandale	negative		12
+scare	negative	!isImmediatelyPrecededByANegation	12:10
+scared	negative	!isImmediatelyPrecededByANegation	12:10
+scary	negative	!isImmediatelyPrecededByANegation	12:10
+scorching response to	negative		12
+scratched	negative	!isImmediatelyPrecededByANegation	12:10
+screw you	negative		12
+screwed	negative	!isImmediatelyPrecededByANegation	12:10
+scumbag	negative		12
+scumbags 	negative		12
+send them back	negative		12
+sentenced	negative	!isImmediatelyPrecededByANegation	12:10
+seriously?	negative		12
+sexist	negative	!isImmediatelyPrecededByANegation	12:10
+sexists	negative	!isImmediatelyPrecededByANegation	12:10
+sh*t	negative	!isImmediatelyPrecededByPositive+++!isImmediatelyPrecededByANegation	if(A && B){12} else{10}
+shame	negative		12
+shameful	negative		12
+shapeless	negative		12
+schmuck	negative	!isImmediatelyPrecededByANegation	12
+sheesh	negative		12
+shit	negative	!isImmediatelyPrecededByPositive+++!isImmediatelyPrecededByANegation+++!isImmediatelyPrecededBySpecificTerm///real|new	if(A && B && C){12} else if (C == 'false' || A == 'false') {11}  else {10}
+shite	negative		12
+shitfaced	negative		12
+shits	negative	!isImmediatelyPrecededByANegation	12:10
+shits	negative		12
+shitter	negative		12
+shittest	negative		12
+shittiest	negative		12
+shitty	negative		12
+should have	negative		12
+should not	negative		12
+shouldn t exist	negative		12
+shrewd	negative		12
+shut up	negative		12
+shysty	negative		12
+sick	negative	!isImmediatelyPrecededByANegation+++!isPrecededByPositive+++!isFollowedByAPositiveOpinion	if(A && B && C) {12} else {10}
+sick of	negative	!isImmediatelyPrecededByANegation	12:10
+sickening	negative		12
+sickos	negative		12
+sigh	negative		12
+sighs	negative		12
+silly	negative		12
+sinful	negative		12
+slave	negative		12
+slavery	negative		12
+slaves	negative		12
+sluggish	negative		12
+slut	negative		12
+sluts	negative		12
+smacks down	negative		12
+smack down	negative		12
+smfh	negative		12
+smh	negative		12
+snarl	negative		12
+so behind	negative	!isImmediatelyPrecededByANegation	12:10
+soapy	negative		12
+sob	negative		12
+sod	negative		12
+sore	negative		12
+sores	negative		12
+sorrow	negative		12
+sorry	negative	!isImmediatelyFollowedBySpecificTerm///to	12:10
+sorry to hear	negative		12
+sowy	negative	!isImmediatelyPrecededByANegation	12:10
+spew	negative	!isImmediatelyPrecededByANegation	12:10
+spewing	negative		12
+spews	negative		12
+spineless	negative		12
+starving	negative	!isImmediatelyFollowedBySpecificTerm///for	12:10
+stern	negative		12
+stomachache	negative	!isImmediatelyPrecededByANegation	12:10
+stop	negative	isAllCaps	12
+strange	negative		12
+stuck	negative	!isImmediatelyPrecededByANegation	12:10
+stuffy	negative	!isImmediatelyPrecededByANegation	12:10
+stupid	negative	!isImmediatelyPrecededByANegation	12:10
+suck	negative	!isImmediatelyPrecededByANegation	12:10
+sucked	negative	!isImmediatelyPrecededByANegation	12:10
+sucker	negative	!isImmediatelyPrecededByANegation	12:10
+suckers	negative	!isImmediatelyPrecededByANegation	12:10
+sucking	negative		12
+sucks	negative	!isImmediatelyPrecededByANegation	12:10
+sucky	negative		12
+suckz	negative		12
+sue me	negative	!isImmediatelyPrecededByANegation	12:10
+sue them	negative		12
+sue us	negative	!isImmediatelyPrecededByANegation	12:10
+sue you	negative	!isImmediatelyPrecededByANegation	12:10
+suspended	negative	!isImmediatelyPrecededByANegation	12:10
+suspension	negative		12
+suspicious	negative		12
+sweatshop	negative		12
+sweatshops	negative		12
+swollen	negative	!isImmediatelyPrecededByANegation	12:10
+tacky	negative	!isImmediatelyPrecededByANegation	12:10
+taken forever	negative		12
+takes forever	negative		12
+tedious	negative		12
+terrible	negative	!isImmediatelyPrecededByANegation	12:10
+terrifying	negative		12
+terrifyingly	negative		12
+that s it	negative		12
+thin	negative	isImmediatelyFollowedBySpecificTerm///margin|air|layer|slice|ground|ice|floor|evidence+++!isImmediatelyPrecededBySpecificTerm///running|too|paper|stretched|stretch|little|patience|wafer	if (A || B) {12} else {10}
+this close	negative		12
+thisclose	negative		12
+threaten	negative		12
+threatens	negative		12
+throbbing	negative	!isImmediatelyPrecededByANegation	12:10
+tiresome	negative		12
+thug	negative		12
+thugs	negative		12
+tired	negative	!isImmediatelyPrecededByANegation	12:10
+, to be polite	negative		12
+to be desired	negative	isPrecededBySpecificTerm///leaves|left	12:10
+to work	negative	isPrecededBySpecificTerm///can t get	12:10
+too late	negative	!isImmediatelyPrecededByANegation	12:10
+too many	negative	!isFollowedByAPositiveOpinion	12:10
+too much	negative	!isFollowedByAPositiveOpinion	12:10
+too often	negative	!isFollowedByAPositiveOpinion	12:10
+toothache	negative	!isImmediatelyPrecededByANegation	12:10
+toxic	negative	!isImmediatelyPrecededByANegation	12:10
+toxicity	negative		12
+tragedy	negative	!isImmediatelyPrecededByANegation	12:10
+tromped	negative	!isImmediatelyPrecededByANegation	12:10
+trouble	negative	!isImmediatelyPrecededByANegation	12:10
+tummyache	negative	!isImmediatelyPrecededByANegation	12:10
+tumor	negative	!isImmediatelyPrecededByANegation	12:10
+twat	negative		12
+twats	negative		12
+twerp	negative		12
+ugh	negative		12
+ugly	negative		12
+uh oh	negative		12
+unacceptable	negative	!isImmediatelyPrecededByANegation	12:10
+uncaring	negative	!isImmediatelyPrecededByANegation	12:10
+uncool	negative	!isImmediatelyPrecededByANegation	12:10
+undermine	negative	!isImmediatelyPrecededByANegation	12:10
+undermines	negative	!isImmediatelyPrecededByANegation	12:10
+undermined	negative	!isImmediatelyPrecededByANegation	12:10
+unfair	negative	!isImmediatelyPrecededByANegation	12:10
+unforgivable	negative	!isImmediatelyPrecededByANegation	12:10
+unfortunate	negative	!isImmediatelyPrecededByANegation	12:10
+unfortunately	negative	!isImmediatelyPrecededByANegation	12:10
+unfortunetly	negative	!isImmediatelyPrecededByANegation	12:10
+ungodly	negative	!isImmediatelyPrecededByANegation	12:10
+unhappy	negative	!isImmediatelyPrecededByANegation	12:10
+unhealthy 	negative	!isImmediatelyPrecededByANegation	12:10
+unloved	negative	!isImmediatelyPrecededByANegation	12:10
+unsatisfying	negative	!isImmediatelyPrecededByANegation	12:10
+unsolved	negative		12
+unspeakable	negative		12
+unsuccessful	negative		12
+unsuccessfully	negative		12
+unintelligent	negative		12
+unwanted	negative		12
+upset	negative	!isImmediatelyPrecededByANegation	12:10
+upsetting	negative	!isImmediatelyPrecededByANegation	12:10
+useless	negative	!isImmediatelyPrecededByANegation	12:10
+very concerning	negative	!isImmediatelyPrecededByANegation	12
+vexed	negative	!isImmediatelyPrecededByANegation	12:10
+vexing	negative		12
+vomit	negative		12
+want to go	negative	!isPrecededBySpecificTerm///do you	12:10
+waste my time	negative	!isImmediatelyPrecededByANegation	12:10
+waste of my time	negative	!isImmediatelyPrecededByANegation	12:10
+waste our time	negative	!isImmediatelyPrecededByANegation	12:10
+wasted time	negative	!isImmediatelyPrecededByANegation	12:10
+wasteland	negative		12
+way too	negative	!isFollowedByAPositiveOpinion	12:10
+we lost	negative		12
+weakest	negative	isImmediatelyPrecededBySpecificTerm///is the|are the	12:10
+weird	negative	!isImmediatelyPrecededByANegation	12:10
+whats wrong	negative		12
+what s wrong	negative		12
+why on earth	negative		12
+why the hell	negative		12
+whore	negative		12
+whores	negative		12
+wish i	negative	isImmediatelyFollowedBySpecificTerm///had|hadn|did|didn|would|wouldn	12:10
+wish	negative	isImmediatelyFollowedBySpecificTerm///he|they|she|we|people	12:10
+be buying	negative		12
+won t be buying	negative		12
+won t buy	negative		12
+wont buy	negative		12
+wont let me	negative		12
+work out	negative	isImmediatelyPrecededByANegation	12:10
+worn out	negative	!isImmediatelyPrecededByANegation	12:10
+worried	negative	!isImmediatelyPrecededByANegation	12:10
+worries	negative	!isImmediatelyPrecededByANegation	12:10
+worry	negative	!isImmediatelyPrecededByANegation	12:10
+worrying	negative	!isImmediatelyPrecededByANegation	12:10
+worse	negative	!isImmediatelyPrecededByANegation	12:10
+worst	negative	!isImmediatelyPrecededByANegation	12:10
+worth	negative	isImmediatelyPrecededByANegation	12:10
+wrenching	negative		12
+wretched	negative		12
+wrong	negative	!isImmediatelyPrecededByANegation	12:10
+wtf	negative		12
+yeah right	negative		12
+years behind	negative	!isImmediatelyPrecededByANegation	12:10
+yuck	negative		12
+yucky	negative	!isImmediatelyPrecededByANegation	12:10
+zero support	negative		12
+help us!	negative		12
+please hurry	negative		12
+slap in the face	negative		12
+insane	negative	!isPrecededByPositive+++!isFollowedByAPositiveOpinion	if (A && B) {12} else {10}
+whatsoever	negative		12
+sux	negative		12
+i ve had to	negative		12
+ive had to	negative		12
