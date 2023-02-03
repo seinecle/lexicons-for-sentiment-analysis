@@ -1,5 +1,4 @@
 # Loughran & McDonald
-
 ⚠️ This lexicon is specific to the finance domain
 
 # License

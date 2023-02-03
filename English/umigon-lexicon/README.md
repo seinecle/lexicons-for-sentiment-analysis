@@ -1,5 +1,5 @@
 # umigon-lexicon
-Terms in these lexicons are not supposed to be associated deterministically with a valence: they come with conditions and conditional expressions which appraise the context of use to identify the valence "at run time". Please use and evaluate umigon-lexicon with this important fact in mind.
+⚠️ Terms in these lexicons are not supposed to be associated deterministically with a valence: they come with conditions and conditional expressions which appraise the context of use to identify the valence "at run time". Please use and evaluate umigon-lexicon with this important fact in mind.
 
 # License
 Attribution 4.0 International (CC BY 4.0) 
